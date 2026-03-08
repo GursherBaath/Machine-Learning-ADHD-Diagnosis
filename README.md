@@ -26,3 +26,5 @@ in stronger performance for these models and is suggested for
 future research.
 
 ![SVM Results](Images/SVM.png)
+![LR Results](Images/Logistic-Regression.png)
+![KNN Results](Images/KNN.png)
