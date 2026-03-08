@@ -1,8 +1,7 @@
 # Machine-Learning-ADHD-Diagnosis
-Predict ADHD diagnosis by analyzing movement patterns from smartwatch sensor data. 
-Machine learning models implemented in Python using Scikit-Learn.
+Predict ADHD diagnosis by analyzing movement patterns from smartwatch sensor data. Machine learning models implemented in Python using Scikit-Learn.
 
-Abstract - This study aims to advance the tools for detecting
+**Abstract** - This study aims to advance the tools for detecting
 Attention Deficit/Hyperactivity Disorder (ADHD) using machine
 learning. This study implements machine learning techniques
 on actigraphy data with the goal to distinguish between in
