@@ -24,3 +24,5 @@ There was decent ability to identify individuals without ADHD,
 indicating that binary classes of no-ADHD or ADHD may result
 in stronger performance for these models and is suggested for
 future research.
+
+![SVM Results](Images/SVM.png)
