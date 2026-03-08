@@ -23,4 +23,4 @@ features may be required to improve subtype classification.
 There was decent ability to identify individuals without ADHD,
 indicating that binary classes of no-ADHD or ADHD may result
 in stronger performance for these models and is suggested for
-future research
+future research.
